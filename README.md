@@ -27,3 +27,22 @@ Girişin ilk satırı test senaryolarının sayısını verir, ardından T. T te
 Her bir test senaryosu için, Case #x: y'yi içeren bir satır çıktı alın; burada x, test senaryosu numarasıdır (1'den başlayarak) ve y, satın alabileceğiniz maksimum ev sayısıdır.
 
 
+***** ÖRNEK İŞLEM ******
+
+Input                                 Output 	                                    
+ 
+3
+
+4 100                                 Case #1: 2
+20 90 40 90
+
+4 50                                  Case #2: 3
+30 30 10 10
+
+3 300                                 Case #3: 0
+999 999 999
+
+  
+
+
+
