@@ -2,7 +2,7 @@
 """
 Created on Sat Jan  9 00:33:34 2021
 
-@author: gurse
+@author: Kerem Metin
 """
 import time
 case = int(input("Kaç işlem yapılacak = "))
