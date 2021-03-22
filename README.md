@@ -16,7 +16,7 @@ For each test case, output one line containing Case #x: y, where x is the test c
 ******(Türkçe)******
 
 Problem
-Satılık N tane ev var. I-th evi satın almak Ai dolarına mal oluyor. Harcamak için B dolarlık bir bütçeniz var.
+Satılık N tane ev var. T kadar evi satın almak Ai miktarda dolara mal oluyor. Harcamak için B dolarlık bir bütçeniz var.
 
 Satın alabileceğiniz maksimum ev sayısı nedir?
 
